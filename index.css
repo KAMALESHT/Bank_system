@@ -16,12 +16,12 @@
   }
 
   #title1 {
-    background-image : url(images/1.jpg);
+    background-image : url(1.jpg);
     background-size: cover;
     background-attachment: fixed;
   }
   #title {
-    background-image : url(images/2.jpg);
+    background-image : url(2.jpg);
     background-size: cover;
     background-attachment: fixed;
     
@@ -96,7 +96,7 @@
   
   /* footerSection */
   #footer {
-    background-image: url(images/6.jpg);
+    background-image: url(6.jpg);
     background-size: cover;
     background-attachment: fixed;
     
