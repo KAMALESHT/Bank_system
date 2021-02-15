@@ -1,0 +1,139 @@
+.container-fluid {
+    padding: 7% 15% 0;
+  }
+  
+  .body {
+    text-align: center;
+    font-family: "Montserrat";
+  }
+  
+  /* TitleSection */
+  .big-heading {
+    font-size: 2.5rem;
+    text-align: center;
+    line-height: 1.5;
+    font-family: "Montserrat-Bold";
+  }
+
+  #title1 {
+    background-image : url(images/1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  #title {
+    background-image : url(images/2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    
+      /*background-color: #07e4d2;*/
+  }
+  
+  
+    
+   
+  
+  #title .container-fluid {
+    padding: 3% 15% 7%;
+  }
+  
+  
+  /* navigationsection */
+  .navbar-heading {
+    font-size: 1.5rem;
+    font-family: "Ubuntu";
+    padding: 0 0;
+  }
+  
+  .navbar {
+    padding: 0 0 4.5rem;
+  }
+  
+  .nav-item {
+    color: #fff;
+    padding: 0 18px;
+  }
+  
+  .description {
+    font-size: 2.5rem;
+    font-family: "Montserrat";
+    text-align: left;
+    padding-bottom: 7%;
+  }
+  
+  .m-img {
+    right: 30%;
+  }
+  
+  /* testimonialsection */
+  #testimonials {
+    text-align: center;
+    z-index: 1;
+    background-color: white;
+  }
+  
+  .testimonial-text {
+    font-size: 2.5rem;
+    padding-bottom: 7%;
+    line-height: 1.5;
+  }
+  
+  .carousel-item {
+    padding: 7% 15%;
+  }
+  
+  .testimonial-image {
+    width: 40%;
+    border-radius: 100%;
+    
+  }
+  
+  #press {
+    padding: 100px ; color : white;
+    text-align: center;
+    padding-bottom: 7%;
+  }
+  
+  
+  /* footerSection */
+  #footer {
+    background-image: url(images/6.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    
+  }
+  .cus{
+    background: lightblue;
+  }
+  .cus_table {
+    background: lightseagreen;
+    overflow: hidden;
+  }
+  .social-icon {
+    margin: 20px 10px;
+  }
+  
+  /* Customer-service */
+  /*feature-box section*/
+  #features {
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+    text-align: center;
+  }
+  
+  .feature-title {
+    font-size: 1.5rem;
+  }
+  
+  .feature-box {
+    padding: 5%;
+  }
+  
+  .icon {
+    color: blue;
+    margin-bottom: 1rem;
+  }
+  
+  .icon:hover {
+    color: blue;
+  }
